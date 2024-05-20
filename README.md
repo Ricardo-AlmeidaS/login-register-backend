@@ -10,6 +10,7 @@ A Auth API é uma solução robusta e eficiente, desenvolvida para fornecer serv
 - spring devtools
 - lombok
 - h2 database
+- JWT
 
 ## Rotas
 Nota: Esta API utiliza JSON (JavaScript Object Notation) para troca de dados. Ao interagir com as rotas, certifique-se de que suas respostas estejam no formato JSON. Siga o tópico 'Entidades' para garantir que as solicitações funcionem corretamente.
